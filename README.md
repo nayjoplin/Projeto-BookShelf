@@ -1,4 +1,15 @@
-# BookShelf Setup
+<div align="center">
+
+![BookShelf](assets/cover.svg)
+
+# BookShelf
+
+Projeto de organização e apresentação de livros em uma aplicação web
+
+**Projeto web**
+
+</div>
+
 
 Projeto inicial com:
 
